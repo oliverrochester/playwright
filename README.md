@@ -1,7 +1,7 @@
 Setup:
 
-clone repository
-run command: "npm install" to install dependencies
+clone repository\n
+run command: "npm install" to install dependencies\n
 There is a file untracked by git called "credentials.json". You will need to create this file at the top level of the directory. The format of this file will be:
 
 {
