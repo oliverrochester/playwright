@@ -8,9 +8,9 @@ Setup:
 
 {
 
-  "username" : [siteUsername] //can be found in the assessment doc
+  "username" : [siteUsername],         //can be found in the assessment doc
   
-  "password" : [sitePassword] //can be found in the assessment doc
+  "password" : [sitePassword]          //can be found in the assessment doc
   
 }
 
